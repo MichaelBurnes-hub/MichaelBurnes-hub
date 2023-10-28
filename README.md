@@ -1,7 +1,38 @@
-### Hi there 👋
+<h1>Hi, I'm Michael! <br/><a href="https://github.com/michaelburnes-hub">Programmer</a>, <a href="https://www.linkedin.com/in/michaelburnes24">Cybersecurity Professional</h1>
+
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- [Age In Minutes Calculator App](https://github.com/MichaelBurnes-hub/AgeInMinutesCalculator.git)
+- [Calculator App]()
+- [Quiz App]()
+- [Drawing App]()
+- [Workout App]()
+- [Happy Places App]()
+- [Weather App]()
+- [Trello Clone App]()
+- [Meme App]()
+- [Java Projects](https://github.com/MichaelBurnes-hub/MyProjects.git)
+  
+
+
+<h2>🗃️ Certifications</h2>
+
+- [Kotlin Developer Certification]()
+
+<h2>📺 Popular YouTube Videos</h2>
+
+- [Explaining my Age in Minutes Calculator]()
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+
+[linkedin]: https://linkedin.com/in/michaelburnes24
+[facebook]: https://www.facebook.com/michael.burnes.796
 
 <!--
-**MichaelBurnes-hub/MichaelBurnes-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**michaelburnes-hub/michaelburnes-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
