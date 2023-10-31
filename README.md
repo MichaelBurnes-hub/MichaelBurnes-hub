@@ -3,14 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - [Age In Minutes Calculator App](https://github.com/MichaelBurnes-hub/AgeInMinutesCalculator.git)
-- [Calculator App]()
-- [Quiz App]()
-- [Drawing App]()
-- [Workout App]()
-- [Happy Places App]()
-- [Weather App]()
-- [Trello Clone App]()
-- [Meme App]()
+- [Calculator App](https://github.com/MichaelBurnes-hub/Calculator.git)
 - [Java Projects](https://github.com/MichaelBurnes-hub/MyProjects.git)
   
 
