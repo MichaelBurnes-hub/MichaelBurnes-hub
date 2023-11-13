@@ -1,4 +1,4 @@
-<h1>Hi, I'm Michael! <br/><a href="https://github.com/michaelburnes-hub">Programmer</a>, <a href="https://www.linkedin.com/in/michaelburnes24">Cybersecurity Professional</h1>
+<h1>Hi, I'm Michael! <br/><a href="https://github.com/michaelburnes-hub">Programmer</a>, <a href="https://www.linkedin.com/in/michaelburnes24">Android Developer</h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
